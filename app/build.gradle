@@ -10,11 +10,11 @@ def localProperties = new Properties()
 localProperties.load(new FileInputStream(rootProject.file("local.properties")))
 
 android {
-    namespace 'com.example.remap'
+    namespace 'com.example.ecoline'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.remap"
+        applicationId "com.example.ecoline"
         minSdk 26
         targetSdk 34
         versionCode 1

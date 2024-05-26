@@ -1,7 +1,7 @@
 package com.example.app
 
 import android.app.Application
-import com.example.remap.BuildConfig
+import com.example.ecoline.BuildConfig
 import com.yandex.mapkit.MapKitFactory
 import dagger.hilt.android.HiltAndroidApp
 
