@@ -42,8 +42,7 @@ fun MainScreen() {
             }
         ) {
             composable(Screens.Home.route) {
-                //Replace with specific screen
-                SampleScreen( "Главный экран")
+                HomeScreen()
             }
 
             composable(Screens.Map.route) {

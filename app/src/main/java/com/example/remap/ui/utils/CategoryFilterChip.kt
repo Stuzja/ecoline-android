@@ -15,7 +15,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import com.example.remap.ui.screens.map.components.CategoryType
-import java.util.Locale.Category
 
 @Composable
 fun CategoryFilterChip(
